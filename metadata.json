@@ -1,0 +1,6 @@
+{
+  "name": "Nonna's Woodfire Pizza - AI Agent & Delivery",
+  "description": "Artisan pizza delivery powered by an intelligent conversational AI agent. Build custom pizzas, order via voice or chat, apply promo deals, and track your driver in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
